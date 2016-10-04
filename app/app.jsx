@@ -1,8 +1,9 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
+var Main = require('Main');
 ReactDOM.render(
   <div>
-      <h1>React Boilerplate!</h1>
+      <Main />
   </div>
   ,
   document.getElementById('app')
