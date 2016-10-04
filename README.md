@@ -7,3 +7,5 @@
 3, <code>node server.js</code>
 
 4, <code>localhost:3000</code>
+
+5, <code>npm test</code>
